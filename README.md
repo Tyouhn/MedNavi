@@ -27,7 +27,8 @@ folder into your Java project path.
 
 - Then open with notepad or text editor:
   	- MySQLConnector.java
-		
+		Substitute all instances of "Connection con = DriverManager.getConnection"
+		with your specific local database server information.
 	- ChatGPTAPI.java <br>
 	        Add your ChatGPT key on line 22 after "String apikey = " 
 	- GoogleMapAPI.java <br>
