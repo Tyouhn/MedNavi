@@ -5,24 +5,24 @@ A medical application that helps diagnose people and find nearby doctors.
 
 ## Features
 - Medical advice
-  	- Using modern AI technology the program can generate
-  	  a medically accurate list of possible diseases and
-  	  advice on who to visit for a proper diagnosis.
+  	- Using modern AI technology the program can generate <br>
+  	  a medically accurate list of possible diseases and <br>
+  	  advice on who to visit for a proper diagnosis. 
 - User security
-	- Users may ask whatever medical questions they want and
+	- Users may ask whatever medical questions they want and <br>
 	  not worry about other users viewing as it is password-protected.
 - Save searches
-  	- Store previous responses in a database, users can retrieve them with
-  	  the drop-down list.
+  	- Store previous responses in a database, users can retrieve <br>
+  	  them with the drop-down list.
 - Local map
-   	- From the application, users can access Google Maps to
+   	- From the application, users can access Google Maps to <br>
    	  find a doctor in their area.
 
 ## Setup
 
-- To get started prepare your ChatGpt API key, JxBrowser license key, 
-Google Maps API key, and import LoginTable.sql to your database. Also,
-ensure to incorporate all the libraries located within the Java Lib
+- To get started prepare your ChatGpt API key, JxBrowser license key, <br>
+Google Maps API key, and import LoginTable.sql to your database. Also, <br>
+ensure to incorporate all the libraries located within the Java Lib <br>
 folder into your Java project path.
 
 - Then open with notepad or text editor:
