@@ -25,11 +25,11 @@ Google Maps API key, and import LoginTable.sql to your database.
 
 - Then open with notepad or text editor: 
 	- ChatGPTAPI.java <br>
-	        Add your ChatGPT Key on line 22 after "String apikey = " 
+	        - Add your ChatGPT Key on line 22 after "String apikey = " 
 	- GoogleMapAPI.java <br>
-	        Add your JxBrowser license key on line 38 after ".licenseKey"
+	        - Add your JxBrowser license key on line 38 after ".licenseKey"
    	- GoogleMap.html <br>
-  	        Replace "YOUR_API_KEY" with your Google Map API key on lines 27 and 147
+  	        - Replace "YOUR_API_KEY" with your Google Map API key on lines 27 and 147
 
 - Run InfoUI.java
 
