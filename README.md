@@ -3,7 +3,7 @@
     <img src="https://i.imgur.com/Lv2dBHU.png" alt="Image description" style="display: inline-block; width: 80px; height: 80px;">
 </div>
 
-# JavaGPT
+# WHECare
 
 A Java GUI that interfaces ChatGPT API.
 
@@ -12,29 +12,16 @@ A Java GUI that interfaces ChatGPT API.
 
 
 ## Features
+- Medical advice:
+  	- Using modern AI technology the program can generate a medically
+  	  accurate list of possible diseases and give advice on who to visit
+  	  for a proper diagnosis.
 
-- Chat Streaming
-	- Just like the website, responses will generate in real time
-	- You can terminate a response while it is in progress
-- Chat History
-	- See and interact with previous chats
-	- Saves chats as .json for easy external modification and viewing
-	- Accessible through the "Load Chat" button
+	User security: users may ask whatever medical questions they want and not worry about other users viewing as it is password-protected
+ 
+ 	Local map: from the application, users can access Google Maps to find a doctor in their area.
 
-![Demo](https://i.imgur.com/q3s1frY.gif)
 
-- Chat Titles
-	- Autogenerate titles like ChatGPT website
-	- Manually name chats if preferred
-- Revert Chats
-	- Be able to void previous prompts and responses from chat
-	- You can revert multiple times
-- Proxy Support
-	- Supports SOCKS and HTTP proxies
-	- Easily configurable via config.properties	
-- HTML Viewer
-	- View your chat content in HTML
-	- Supports Markdown Language syntax
 
 ![HTML View](https://i.imgur.com/W0pzIic.gif)
 
@@ -80,6 +67,8 @@ Theme=dark			#Themes JFrame (Window) to set config. Options: dark,light
 ## Requirements
 
 - Java 8 or higher
+- ChatGPT API Key
+- JxBrowser License Key
 
 ## Important note for legacy systems
 
