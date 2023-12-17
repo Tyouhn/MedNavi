@@ -14,7 +14,9 @@ A medical application that helps diagnose people and find nearby doctors.
  - Local map
    	- From the application, users can access Google Maps to
    	  find a doctor in their area.
-- Save searches to the database
+- Save searches
+  	- Store previous responses in a database, users can retrieve them with
+  	  the drop-down list.
 
 ## Setup
 
