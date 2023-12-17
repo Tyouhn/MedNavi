@@ -1,91 +1,46 @@
+# Find Your Doctor
 
-<div>
-    <img src="https://i.imgur.com/Lv2dBHU.png" alt="Image description" style="display: inline-block; width: 80px; height: 80px;">
-</div>
-
-# WHECare
-
-A Java GUI that interfaces ChatGPT API.
-
-
-![](https://i.imgur.com/EbL1VRv.gif)
+A medical application that helps diagnose people and find nearby doctors.
 
 
 ## Features
-- Medical advice:
-  	- Using modern AI technology the program can generate a medically
-  	  accurate list of possible diseases and give advice on who to visit
-  	  for a proper diagnosis.
-
-	User security: users may ask whatever medical questions they want and not worry about other users viewing as it is password-protected
- 
- 	Local map: from the application, users can access Google Maps to find a doctor in their area.
-
-
-
-![HTML View](https://i.imgur.com/W0pzIic.gif)
-
-
-- Import premade prompts
-- Save chats to file
-- Support for ChatGPT 4, and 3.5 models
-- Cross platform
-
+- Medical advice
+  	- Using modern AI technology the program can generate
+  	  a medically accurate list of possible diseases and
+  	  advice on who to visit for a proper diagnosis.
+- User security
+	- Users may ask whatever medical questions they want and
+	  not worry about other users viewing as it is password-protected.
+ - Local map
+   	- From the application, users can access Google Maps to
+   	  find a doctor in their area.
+- Save searches to the database
 
 ## Setup
 
-To get started download the [latest release](https://github.com/FrankCYB/JavaGPT/releases/latest "Latest release page").
+- To get started prepare your ChatGpt API key, JxBrowser license key, 
+Google Maps API key, and import LoginTable.sql to your database.
 
-Afterwords, extract the archieve
+- Then open with notepad or text editor: 
+	- ChatGPTAPI.java
+		Add your ChatGPT Key on line 22 after "String apikey = " 
+	- GoogleMapAPI.java
+		Add your JxBrowser license key on line 38 after ".licenseKey"
+   	- GoogleMap.html
+   	  	Replace "YOUR_API_KEY" with your Google Map API key on lines 27 and 147
 
-Then open the config.properties file in a text editor
+- Run InfoUI.java
 
-Add your [ChatGPT API-Key](https://platform.openai.com/account/api-keys "ChatGPT API-Key") on line 4 after "apikey="
-
-Run JavaGPT.jar and enjoy! 😁
-
-
-
-## Config Example
-```
-apikey=ENTER_CHAT_GPT_API_KEY_HERE
-model=gpt-3.5-turbo		#Model used for ChatGPT Client (Supported Models: gpt-4, gpt-3.5-turbo, etc) > All supported models here "https://platform.openai.com/docs/models/gpt-3-5"
-maxTokens=1024			#Max ammount of tokens allowed per ChatGPT API request
-timeout=30			#Adjust allowed wait time for prompt response from ChatGPT API
-proxyip= 			#Proxy IP
-proxyport= 			#Proxy port number
-proxytype= 			#Options: SOCKS,HTTP,HTTPS
-autotitle=true			#Adjusts wether new chats will automatically generate file name titles based on the context of the chat
-autoscroll=true			#Adjusts wether chat will scroll as new text is added
-EnterToSubmit=true		#Adjusts wether the Enter key should be used to submit or to create new lines
-chat_history=			#Adjust wether chats will save automatically
-chat_location_override=		#Overrides default "chat_history" folder path (Original path is set to the location of the jar file on runtime)
-WindowSize=			#Adjusts JFrame (Window) size. Options: small,medium,large (Set to "medium" by default)
-FontSize=			#Adjusts font size of chat content 
-Theme=dark			#Themes JFrame (Window) to set config. Options: dark,light
-```
 ## Requirements
 
 - Java 8 or higher
+- Google Maps API Key
 - ChatGPT API Key
 - JxBrowser License Key
+- Database
+  	- MySql Workbench and Community Server
+  	  		Or
+	- Xampp
 
-## Important note for legacy systems
-
-If your on a legacy Windows system such as 98, ME, 2000, and XP, there are additional steps involved to get Java 8 to run properly. <br>
-I made a guide on how to get Java 8 to run on these various OSs in a reddit thread. Link can be found [here](https://www.reddit.com/r/windows/comments/12t9ax3/comment/jh1h1qm/?utm_source=share&utm_medium=web2x&context=3).
-    
-## Final notes
-
-If you enjoy JavaGPT and would like to support me in future updates and projects, please feel free to show your support by buying me a ☕ 
-
-<a href="https://www.buymeacoffee.com/FrankCYB" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-
-
-
-Also, shoutout to TheoKanning and his contributors for making [OpenAI-Java](https://github.com/TheoKanning/openai-java "Project page") : A ChatGPT API wrapper for Java
-
-Made my life much easier 😁👍
 
 
