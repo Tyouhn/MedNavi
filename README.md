@@ -5,6 +5,9 @@ A medical application that helps diagnose people and find nearby doctors.
 
 ## Features
 ![Welcome](https://github.com/Tyouhn/WHE-Health/assets/30061954/7f611215-e5e9-44ca-b54d-eaae45fec8c5)
+![Search](https://github.com/Tyouhn/WHE-Health/assets/30061954/29d60963-3156-4965-8c81-3cbc915e4dcd)
+![History](https://github.com/Tyouhn/WHE-Health/assets/30061954/8070c62c-6257-4009-a028-6a55a25be200)
+![GoogleMap](https://github.com/Tyouhn/WHE-Health/assets/30061954/62afec2e-9a94-4511-b73e-ae0337413b69)
 
 - Medical advice
   	- Using modern AI technology the program can generate <br>
