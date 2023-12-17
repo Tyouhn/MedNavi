@@ -21,9 +21,13 @@ A medical application that helps diagnose people and find nearby doctors.
 ## Setup
 
 - To get started prepare your ChatGpt API key, JxBrowser license key, 
-Google Maps API key, and import LoginTable.sql to your database.
+Google Maps API key, and import LoginTable.sql to your database. Also,
+ensure to incorporate all the libraries located within the Java Lib
+folder into your Java project path.
 
-- Then open with notepad or text editor: 
+- Then open with notepad or text editor:
+  	- MySQLConnector.java
+		
 	- ChatGPTAPI.java <br>
 	        Add your ChatGPT key on line 22 after "String apikey = " 
 	- GoogleMapAPI.java <br>
