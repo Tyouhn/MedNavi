@@ -11,12 +11,12 @@ A medical application that helps diagnose people and find nearby doctors.
 - User security
 	- Users may ask whatever medical questions they want and
 	  not worry about other users viewing as it is password-protected.
- - Local map
-   	- From the application, users can access Google Maps to
-   	  find a doctor in their area.
 - Save searches
   	- Store previous responses in a database, users can retrieve them with
   	  the drop-down list.
+- Local map
+   	- From the application, users can access Google Maps to
+   	  find a doctor in their area.
 
 ## Setup
 
