@@ -40,7 +40,7 @@ Google Maps API key, and import LoginTable.sql to your database.
 - ChatGPT API Key
 - JxBrowser License Key
 - Database
-  	- MySql Workbench and Community Server
+  	- MySql Workbench and Community Server <br>
   	  		Or
 	- Xampp
 
