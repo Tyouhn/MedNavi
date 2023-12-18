@@ -34,9 +34,7 @@ folder into your Java project path.
   	- MySQLConnector.java
 		Substitute all instances of "Connection con = <br>
 		DriverManager.getConnection("jdbc:mysql://YOUR_HOST_NAME:YOUR_PORT/YOUR_DATABASE", <br>
-		"USERNAME", "PASSWORD");" <br>
-		with your specific local database server information. 
-		
+		"USERNAME", "PASSWORD");" with your specific local database server information. <br>
 	- ChatGPTAPI.java <br>
 	        Add your ChatGPT key on line 22 after "String apikey = " <br>
 	- GoogleMapAPI.java <br>
