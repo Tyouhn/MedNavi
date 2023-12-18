@@ -41,7 +41,7 @@ folder into your Java project path.
 	        Add your JxBrowser license key on line 389 after ".licenseKey"
    	- GoogleMap.html <br>
   	        Replace "YOUR_API_KEY" with your Google Map API key on lines 27 and 146
-	- ZipCodeConverter.java
+	- ZipCodeConverter.java <br>
    		Add your Google Map key on line 21 after "String apikey = "
 - Run InfoUI.java
 
