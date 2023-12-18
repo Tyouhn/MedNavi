@@ -33,7 +33,7 @@ folder into your Java project path.
 - Then open with notepad or text editor:
   	- MySQLConnector.java
 		Substitute all instances of "url", "user," and "pass" with your specific <br>
-		local database server information. <br>
+		local database server information at lines 12, 13  and 14. <br>
    		
 	- ChatGPTAPI.java <br>
 	        Add your ChatGPT key on line 18 after "String apikey = " <br>
