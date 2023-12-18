@@ -33,13 +33,15 @@ folder into your Java project path.
 - Then open with notepad or text editor:
   	- MySQLConnector.java
 		Substitute all instances of "Connection con = DriverManager.getConnection" <br>
-		with your specific local database server information.
+		with your specific local database server information. <br>
+		For example, "Connection con = <br>
+		DriverManager.getConnection("jdbc:mysql://YOUR_HOST_NAME:YOUR_PORT/YOUR_DATABASE", "USERNAME", "PASSWORD"); 
 	- ChatGPTAPI.java <br>
-	        Add your ChatGPT key on line 22 after "String apikey = " 
+	        Add your ChatGPT key on line 22 after "String apikey = " <br>
 	- GoogleMapAPI.java <br>
-	        Add your JxBrowser license key on line 38 after ".licenseKey"
+	        Add your JxBrowser license key on line 389 after ".licenseKey"
    	- GoogleMap.html <br>
-  	        Replace "YOUR_API_KEY" with your Google Map API key on lines 27 and 147
+  	        Replace "YOUR_API_KEY" with your Google Map API key on lines 27 and 146
 	- ZipCodeConverter.java
    		Add your Google Map key on line 21 after "String apikey = "
 - Run InfoUI.java
