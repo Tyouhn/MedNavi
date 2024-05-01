@@ -4,6 +4,8 @@ Our medical application is a comprehensive platform designed to provide symptom 
 
 ## Features
 ![Welcome](https://github.com/Tyouhn/WHE-Health/assets/30061954/7f611215-e5e9-44ca-b54d-eaae45fec8c5)
+
+https://github.com/Tyouhn/MedNavi/assets/30061954/b550c1ba-c77d-432f-8bdd-e3acd2bc24a6
 - Medical advice
   	- Using modern AI technology the program can generate <br>
   	  a medically accurate list of possible diseases and <br>
