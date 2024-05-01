@@ -29,6 +29,7 @@ Our medical application is a comprehensive platform designed to provide symptom 
   		  them with the drop-down list.
 ![StudentSearch](https://github.com/Tyouhn/MedNavi/assets/30061954/b550c1ba-c77d-432f-8bdd-e3acd2bc24a6)
 ![StudentHistory](https://github.com/Tyouhn/MedNavi/assets/30061954/9d228509-fd29-4526-b535-74f7fe018862）
+
 ## Setup
 
 - To get started prepare your ChatGpt API key, JxBrowser license key, <br>
