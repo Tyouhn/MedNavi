@@ -1,7 +1,6 @@
-# Find Your Doctor
+# MedNavi
 
-A medical application that helps diagnose people and find nearby doctors.
-
+Our medical application is a comprehensive platform designed to provide symptom diagnosis for patients, recommend the type of doctor, and empower students with general medical knowledge.
 
 ## Features
 
@@ -9,7 +8,8 @@ A medical application that helps diagnose people and find nearby doctors.
 - Medical advice
   	- Using modern AI technology the program can generate <br>
   	  a medically accurate list of possible diseases and <br>
-  	  advice on who to visit for a proper diagnosis. 
+  	  advice on who to visit for a proper diagnosis.
+- Medical Term 
 - User security
 	- Users may ask whatever medical questions they want and <br>
 	  not worry about other users viewing as it is password-protected.
@@ -43,7 +43,7 @@ folder into your Java project path.
   	        Replace "YOUR_API_KEY" with your Google Map API key on lines 27 and 146
 	- ZipCodeConverter.java <br>
    		Add your Google Map key on line 14 after "String apikey = "
-- Run InfoUI.java
+- Run Portal.java
 
 ## Requirements
 
