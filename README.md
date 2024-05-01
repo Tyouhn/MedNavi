@@ -50,7 +50,7 @@ folder into your Java project path.
   	        Replace "YOUR_API_KEY" with your Google Map API key on lines 27 and 146
 	- ZipCodeConverter.java <br>
    		Add your Google Map key on line 14 after "String apikey = "
-- Run Portal.java
+- Run Portals.java
 
 ## Requirements
 
