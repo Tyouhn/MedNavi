@@ -3,7 +3,7 @@
 Our medical application is a comprehensive platform designed to provide symptom diagnosis for patients, recommend the type of doctor, and empower students with general medical knowledge.
 
 ## Features
-![Welcome]((https://github.com/Tyouhn/MedNavi/assets/30061954/03959895-c78a-4ce3-8997-236ff2834434)
+![Welcome](https://github.com/Tyouhn/MedNavi/assets/30061954/03959895-c78a-4ce3-8997-236ff2834434)
 
 - Medical advice
   	- Using modern AI technology the program can generate <br>
