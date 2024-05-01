@@ -3,9 +3,7 @@
 Our medical application is a comprehensive platform designed to provide symptom diagnosis for patients, recommend the type of doctor, and empower students with general medical knowledge.
 
 ## Features
-##![Welcome](https://github.com/Tyouhn/WHE-Health/assets/30061954/7f611215-e5e9-44ca-b54d-eaae45fec8c5)
-
-
+![Welcome](https://github.com/Tyouhn/WHE-Health/assets/30061954/7f611215-e5e9-44ca-b54d-eaae45fec8c5)
 - Medical advice
   	- Using modern AI technology the program can generate <br>
   	  a medically accurate list of possible diseases and <br>
