@@ -17,14 +17,15 @@ https://github.com/Tyouhn/WHE-Health/assets/30061954/7f611215-e5e9-44ca-b54d-eaa
 	- Patient Portal 
 		- Store previous responses in a database, users can retrieve <br>
   		  them with the drop-down list.
-![Search](https://github.com/Tyouhn/WHE-Health/assets/30061954/29d60963-3156-4965-8c81-3cbc915e4dcd)
-![History](https://github.com/Tyouhn/WHE-Health/assets/30061954/8070c62c-6257-4009-a028-6a55a25be200)
+![PatientSearch](https://github.com/Tyouhn/WHE-Health/assets/30061954/29d60963-3156-4965-8c81-3cbc915e4dcd)
+![PatientHistory](https://github.com/Tyouhn/WHE-Health/assets/30061954/8070c62c-6257-4009-a028-6a55a25be200)
 		- Local map
    			- From the application, users can access Google Maps to <br>
    	 		 find a doctor in their area.
 ![GoogleMap](https://github.com/Tyouhn/WHE-Health/assets/30061954/62afec2e-9a94-4511-b73e-ae0337413b69)
 
 - Student Portal
+![StudentSearch](https://github.com/Tyouhn/MedNavi/assets/30061954/b550c1ba-c77d-432f-8bdd-e3acd2bc24a6)
 
 ## Setup
 
