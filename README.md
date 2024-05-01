@@ -3,8 +3,8 @@
 Our medical application is a comprehensive platform designed to provide symptom diagnosis for patients, recommend the type of doctor, and empower students with general medical knowledge.
 
 ## Features
-![Welcome](https://github.com/Tyouhn/MedNavi/assets/30061954/b550c1ba-c77d-432f-8bdd-e3acd2bc24a6)
-https://github.com/Tyouhn/WHE-Health/assets/30061954/7f611215-e5e9-44ca-b54d-eaae45fec8c5
+![Welcome]((https://github.com/Tyouhn/MedNavi/assets/30061954/03959895-c78a-4ce3-8997-236ff2834434)
+
 - Medical advice
   	- Using modern AI technology the program can generate <br>
   	  a medically accurate list of possible diseases and <br>
@@ -24,9 +24,11 @@ https://github.com/Tyouhn/WHE-Health/assets/30061954/7f611215-e5e9-44ca-b54d-eaa
    	 		 find a doctor in their area.
 ![GoogleMap](https://github.com/Tyouhn/WHE-Health/assets/30061954/62afec2e-9a94-4511-b73e-ae0337413b69)
 
-- Student Portal
+	- Student Portal
+  		-  Store previous responses in a database, users can retrieve <br>
+  		  them with the drop-down list.
 ![StudentSearch](https://github.com/Tyouhn/MedNavi/assets/30061954/b550c1ba-c77d-432f-8bdd-e3acd2bc24a6)
-
+![StudentHistory]https://github.com/Tyouhn/MedNavi/assets/30061954/9d228509-fd29-4526-b535-74f7fe018862）
 ## Setup
 
 - To get started prepare your ChatGpt API key, JxBrowser license key, <br>
