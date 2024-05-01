@@ -14,7 +14,7 @@ https://github.com/Tyouhn/WHE-Health/assets/30061954/7f611215-e5e9-44ca-b54d-eaa
 	- Users may ask whatever medical questions they want and <br>
 	  not worry about other users viewing as it is password-protected.
 - Save searches: <br>
-- Patient Portal 
+	- Patient Portal 
 	- Store previous responses in a database, users can retrieve <br>
   	  them with the drop-down list.
 ![Search](https://github.com/Tyouhn/WHE-Health/assets/30061954/29d60963-3156-4965-8c81-3cbc915e4dcd)
