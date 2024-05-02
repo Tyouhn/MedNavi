@@ -55,6 +55,7 @@ folder into your Java project path.
 
 ## Requirements
 
+-Any IDE that supports Java
 - Java 8 or higher
 - Google Maps API Key
 - ChatGPT API Key
